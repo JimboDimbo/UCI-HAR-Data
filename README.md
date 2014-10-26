@@ -8,8 +8,8 @@ Getting &amp; Cleaning Data Course: Project data anlaysis repo
 
 This repository contains:  
 1. the R script (run_analysis.R) to generate the tidy data set (tidydata.txt).  
-2. the codebook to describe the tidydata.txt file.  
-3. a sample copy of the 'tidydata.txt' output.  
+2. the codebook (UCI HAR Data Codebook.md) to describe the tidydata.txt file.  
+3. a sample copy of the 'tidydata.txt' output. In the 'all' directory.   
 4. this README.md file.  
 
 The following code will read the tidydata.txt file if it is copied to your working directory
